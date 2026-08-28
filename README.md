@@ -18,3 +18,13 @@
 <br>
 <h3>ALT+CTRL(AltGr)</h3><br>
 <img width="1536" height="773" alt="SlavonicAltGr" src="https://github.com/user-attachments/assets/2711b6e5-4a09-4d66-8143-70c52715c10c" /><br>
+<br>
+<br>
+<br>
+<h2>Všetky možné kombinácie | All possible combinations</h2><br>
+<h1>${~}$<span>$\color{#0000FF}{/}$</span></h1><br>
+<img width="131" height="677" alt="image" src="https://github.com/user-attachments/assets/ea5e1387-0049-4ec5-a8a8-e8cdfae91922" /><br>
+<br>
+<br>
+<h1>${+}$<span>$\color{#0000FF}{/}$</span></h1><br>
+<img width="126" height="555" alt="image" src="https://github.com/user-attachments/assets/4954db08-8922-49cb-a3ed-61d3e6e2814d" />
