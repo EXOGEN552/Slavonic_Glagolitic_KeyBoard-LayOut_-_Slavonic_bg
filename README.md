@@ -31,7 +31,7 @@
     </th>
     <th>
 <h1><span>$\color{#FF0010}{+}$</span></h1><br>
-      example: "+" + ⱁ = ⱖ
+      example: "+" + ⱁ = ⱖ<br>
 <img width="126" height="555" alt="image" src="https://github.com/user-attachments/assets/4954db08-8922-49cb-a3ed-61d3e6e2814d" /><br>
     </th>
   </tr>
