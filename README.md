@@ -7,6 +7,10 @@
 <a href="https://github.com/EXOGEN552/Slovak-English-KeyBoard-LayOut---PROG">[main]Slovak/English KeyBoard LayOut - PROG</a><br>
 <a href="https://github.com/EXOGEN552/Russian-PROG-KeyBoard-LayOut---PROG_ru">Russian/English KeyBoard LayOut - PROG_ru</a><br><br>
 <br>
+<h1>Pred užívaním klávesnice si stiahnite:/Before using keyboard please install:</h1>
+https://raw.githubusercontent.com/slavonic/Shafarik/master/fonts/otf/Shafarik-Regular.otf
+<br>
+<br>
 <h3>${PREDVOLENÉ}$<span>$\color{#0065FF}{/}$</span><span>$\color{#FF0010}{DEFAULT}$</span></h3>
 <img width="1536" height="773" alt="Slavonic" src="https://github.com/user-attachments/assets/7c637a9a-8421-4bc0-82ee-de950110b25e" /><br>
 <br>
