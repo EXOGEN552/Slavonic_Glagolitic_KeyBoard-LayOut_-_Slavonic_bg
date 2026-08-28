@@ -22,9 +22,15 @@
 <br>
 <br>
 <h2>Všetky možné kombinácie | All possible combinations</h2><br>
+<table>
+  <tr>
+    <th>
 <h1><span>$\color{#FF0010}{&tilde;}$</span></h1><br>
 <img width="131" height="677" alt="image" src="https://github.com/user-attachments/assets/ea5e1387-0049-4ec5-a8a8-e8cdfae91922" /><br>
-<br>
-<br>
+    </th>
+    <th>
 <h1><span>$\color{#FF0010}{+}$</span></h1><br>
-<img width="126" height="555" alt="image" src="https://github.com/user-attachments/assets/4954db08-8922-49cb-a3ed-61d3e6e2814d" />
+<img width="126" height="555" alt="image" src="https://github.com/user-attachments/assets/4954db08-8922-49cb-a3ed-61d3e6e2814d" /><br>
+    </th>
+  </tr>
+</table>
