@@ -22,7 +22,7 @@
 <br>
 <br>
 <h2>Všetky možné kombinácie | All possible combinations</h2><br>
-<h1><span>$\color{#FF0010}{"^~"}$</span></h1><br>
+<h1><span>$\color{#FF0010}{"&tilde;"}$</span></h1><br>
 <img width="131" height="677" alt="image" src="https://github.com/user-attachments/assets/ea5e1387-0049-4ec5-a8a8-e8cdfae91922" /><br>
 <br>
 <br>
